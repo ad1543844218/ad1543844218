@@ -1,1 +1,1 @@
-# ad1543844218
+PepPI-DRN: Protein–Peptide Interaction Prediction Model
